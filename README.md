@@ -1,0 +1,1 @@
+# BoardFoot.swift
